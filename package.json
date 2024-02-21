@@ -1,0 +1,37 @@
+{
+  "name": "strathvueapp",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test:e2e": "nightwatch tests/e2e/*",
+    "test:unit": "nightwatch src/**/__tests__/*"
+  },
+  "dependencies": {
+    "vue": "^3.4.15",
+    "vue-router": "^4.2.5",
+    "vuetify": "^3.5.4"
+  },
+  "devDependencies": {
+    "@mdi/font": "^7.4.47",
+    "@nightwatch/vue": "^3.1.0",
+    "@vitejs/plugin-vue": "^5.0.3",
+    "@vue/test-utils": "^2.4.4",
+    "chromedriver": "^121.0.0",
+    "geckodriver": "^4.3.1",
+    "nightwatch": "^3.4.0",
+    "ts-node": "^10.9.2",
+    "vite": "^5.0.11",
+    "vite-plugin-nightwatch": "^0.4.6"
+  },
+  "description": "This template should help get you started developing with Vue 3 in Vite.",
+  "main": "vite.config.js",
+  "directories": {
+    "test": "tests"
+  },
+  "author": "",
+  "license": "ISC"
+}
