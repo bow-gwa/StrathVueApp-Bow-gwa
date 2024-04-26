@@ -1,6 +1,7 @@
 # StrathVueApp
 This is a university platform for students and people interested in learning about the institution. It details the learning offering that of the instutiution and enables students to register for courses .
 
+Link to live site: https://strathvueapp-bow-gwa-4.onrender.com/
 ## Project Setup
 
 ```sh
