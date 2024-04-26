@@ -1,14 +1,5 @@
 # StrathVueApp
-
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+This is a university platform for students and people interested in learning about the institution. It details the learning offering that of the instutiution and enables students to register for courses .
 
 ## Project Setup
 
@@ -27,6 +18,16 @@ npm run dev
 ```sh
 npm run build
 ```
+
+## Screenshots of StrathVueApp
+Navigation bar
+!![Screenshot (251)](https://github.com/bow-gwa/StrathVueApp-Bow-gwa/assets/151015273/531382da-bebf-4b6c-bc83-9b898d8caeec)
+Home Page
+![Screenshot (250)](https://github.com/bow-gwa/StrathVueApp-Bow-gwa/assets/151015273/82ca27bc-b7a3-4fe4-9898-c4b209ae5ff0)
+
+Courses page
+![Screenshot (249)](https://github.com/bow-gwa/StrathVueApp-Bow-gwa/assets/151015273/bb0f1512-b28c-4b66-b11d-d48604a77778)
+
 
 ### Run End-to-End Tests with [Nightwatch](https://nightwatchjs.org/)
 
